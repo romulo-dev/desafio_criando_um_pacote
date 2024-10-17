@@ -1,0 +1,28 @@
+
+
+
+{
+    "pessoa": {
+        "nome": "Paulo"
+    },
+    "Funcionario": [
+        {
+            "Nome": "Romulo",
+            "Cargo": "Desenvolvedor"
+        }
+    ],
+    "Cliente": [
+        {
+            "nome": "Jose"
+        },
+        {
+            "nome": "Maria"
+        }
+    ],
+    
+        "Admin": {
+            "Nome": "Romulo",
+            "Senha": "123"
+        }
+    
+}

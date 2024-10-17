@@ -1,0 +1,18 @@
+{
+    "pessoa": [
+        {"nome": "João", "idade": 30, "cidade": "São Paulo"},
+        {"nome": "Maria", "idade": 25, "cidade": "Rio de Janeiro"}
+    ],
+    "funcionario": [
+        {"nome": "Carlos", "salario": 5000, "cargo": "Desenvolvedor"},
+        {"nome": "Ana", "salario": 6000, "cargo": "Gerente"}
+    ],
+    "empresa": {
+        "nome": "Empresa X",
+        "local": "São Paulo",
+        "funcionarios": [
+            {"nome": "Pedro", "cargo": "CEO"},
+            {"nome": "Julia", "cargo": "CTO"}
+        ]
+    }
+}
